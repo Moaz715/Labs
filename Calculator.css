@@ -1,0 +1,15 @@
+#div1{
+    background-color: black;
+    color: azure;
+    align-items: center;
+    margin-left: 550px;
+    width: 950px;
+    height: 950px;
+}
+
+.button{
+    width: 4rem;
+    height: 3rem;
+    border-radius: 50%;
+    background-color: antiquewhite;
+}
